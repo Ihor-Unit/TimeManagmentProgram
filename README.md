@@ -6,7 +6,7 @@ It creates a file in the location folder according to the template: "month-day-y
 ## How to set things up?
 Download the project and compile the files in [MS Visual Studio](https://visualstudio.microsoft.com). If you use different IDE I can't enshure you that it'll compile properly because of using VS workload dlls. At the end you should get a `.exe` executable file. 
 
-**But if you are good with the compilation:**
+**If you are good with the compilation:**
  - Choose a folder where you want the program to store and create files with the data
  - Create a shortcut to the `.exe` file 
  - Press `Win + R` and write `shell:startup`

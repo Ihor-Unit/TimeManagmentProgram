@@ -12,4 +12,4 @@ Download the project and compile the files in [MS Visual Studio](https://visuals
  - Press Win + R and write `shell:startup`
  - Move the shortcut to the startup folder and run the shortcut or restart your pc.
 ## Backstory
-I wrote this profram to better manage my time. I just started to feel that I waste my time, so I desided to manage my time better. 
+I wrote this program to better manage my time. I just started to feel that I waste my time insted of learning programming, so I desided to write a program to manage my time better. I know that there is a lot of similar solutions, though as it turned out later they want me to pay them! Rediculous. 

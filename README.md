@@ -1,5 +1,5 @@
 # TimeManagmentProgram
-This program helps you to track where is the time spent when sitting in front of your computer. 
+This program helps you to track the time spent when sitting in front of your computer. 
 ## How is this works?
 
 ## Backstory

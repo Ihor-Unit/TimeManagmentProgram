@@ -9,7 +9,7 @@ Download the project and compile the files in [MS Visual Studio](https://visuals
 **But if you are good with the compilation:**
  - Choose a folder where you want the program to store and create files with the data
  - Create a shortcut to the `.exe` file 
- - Press Win + R and write `shell:startup`
+ - Press `Win + R` and write `shell:startup`
  - Move the shortcut to the startup folder and run the shortcut or restart your pc.
 ## Backstory
 I wrote this program to better manage my time. I just started to feel that I waste my time insted of learning programming, so I desided to write a program to manage my time better. I know that there is a lot of similar solutions, though as it turned out later they want me to pay them! Rediculous. 
